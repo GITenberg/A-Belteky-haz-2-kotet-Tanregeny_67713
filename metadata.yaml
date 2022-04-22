@@ -17,12 +17,17 @@ contributor:
     agent_name: Gergely, Imre
     gutenberg_agent_id: '54414'
     url: http://www.gutenberg.org/2009/agents/54414
+covers:
+- cover_type: archival
+  image_path: 67713-h/images/cover.jpg
 creator:
   author:
     agent_name: Fáy, András
     gutenberg_agent_id: '54413'
     url: http://www.gutenberg.org/2009/agents/54413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67713#A-Belteky-haz-2-kotet-Tanregeny
 gutenberg_issued: '2022-03-26'
 identifiers:
   gutenberg: '67713'
